@@ -8,6 +8,10 @@ Start with a sample table to compare measurements, uncover patterns across sever
 
 **[Watch the Spectra demonstration (MP4, 3 min 2 s)](media/demo-radeye.mp4)** · [Credits and acknowledgements](CREDITS.md)
 
+
+https://github.com/user-attachments/assets/4414434d-70cb-46f5-99df-a602195acc5e
+
+
 [Dataset](#dataset) · [Scatter](#scatter) · [PCA](#pca) · [Spatial Maps](#spatial-maps) · [Spectra](#spectra) · [Sample Styles](#sample-styles) · [Settings](#settings)
 
 ## Dataset
