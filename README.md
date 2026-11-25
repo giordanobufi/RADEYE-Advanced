@@ -75,4 +75,4 @@ For mapping work, you can check how much disk space downloaded map tiles occupy 
 
 ## Contact
 
-To discuss a research application or request a demonstration, contact Dr. Giordano Bufi at [gbufi.chem@gmail.com](mailto:gbufi.chem@gmail.com).
+For more info, contact [gbufi.chem@gmail.com](mailto:gbufi.chem@gmail.com).
